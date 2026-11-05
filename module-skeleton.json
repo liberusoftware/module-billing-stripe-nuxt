@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-stripe-nuxt",
+  "capabilityKey": "liberusoftware/billing-stripe",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-stripe-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-stripe.md",
+  "presentationPlan": "projects/billing/nuxt/module-billing-stripe.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
